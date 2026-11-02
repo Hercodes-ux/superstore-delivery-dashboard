@@ -4,7 +4,7 @@ A Power BI dashboard analyzing sales and delivery performance for a Superstore o
 
 ## Dashboard preview
 
-![Dashboard](dashboard.png)
+![Dashboard](superstore-delivery-dashboard.png)
 
 ## KPIs
 
